@@ -1,0 +1,5 @@
+GET  -   /api/contactos/obtener	   -	devuelve todos los contactos
+GET  -   /api/contactos/obtener/1   -	devuelve el contacto con el id=1
+POST -   /api/contactos/cear	   -	inseerta un nuevo contacto
+PUT  -   /api/contactos/editar/1   -	modifica el contacto con el id=1
+DELETE - /api/contactos/eliminar/1 -  	 elimina el contacto con el id=1
